@@ -9,7 +9,7 @@
 
 ![App Screenshot](https://res.cloudinary.com/heberleonard/image/upload/v1621374469/dt-money1_tsqz1a.png)
 
-![App Screenshot](https://res.cloudinary.com/heberleonard/image/upload/v1621374443/dt-money1_gaai3u.png)
+![App Screenshot](https://res.cloudinary.com/heberleonard/image/upload/v1621374470/dtmoney2_nby88d.png)
 
 <p align="center">
   <a href="https://dt-money-heber.netlify.app/" target="_blank">
